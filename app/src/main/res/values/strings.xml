@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StudentCard</string>
+    <string name="button">アカウント認証</string>
+</resources>
